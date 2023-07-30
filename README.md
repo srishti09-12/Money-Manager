@@ -1,6 +1,19 @@
-# Money-Manager
-It is a expense tracking website which manages your expenses, which helps to achive your financial goals.
+# Expense-Tracker
 
-Main Features - Login/SignUp, Setting Financial targets for income and expense, Keep track of your cashflow, Download Transaction History, Visualise your targets in form of charts, Download charts for future reference, Upload Bill Recipts, Notes Section.
+It is a expense tracking website, which helps to achive your financial goals.
 
-Stack Used - Express, MongoDB, Ejs, BootStrap.
+Main Features - 
+Login/SignUp,
+Setting Financial targets for income and expense,
+Keep track of your cashflow,
+Download Transaction History, 
+Visualise your targets in form of charts,
+Download charts for future reference,
+Upload Bill Recipts,
+Notes Section.
+
+Stack Used - 
+Express,
+MongoDB,
+Ejs,
+BootStrap.
