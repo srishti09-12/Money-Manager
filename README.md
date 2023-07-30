@@ -1,6 +1,6 @@
 # Expense-Tracker
 
-It is a expense tracking website, which helps to achive your financial goals.
+It is a expense tracking website which manages the expenses, which helps to achive your financial goals.
 
 Main Features - 
 Login/SignUp,
