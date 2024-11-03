@@ -28,7 +28,7 @@ app.use(session({
 app.use(passport.initialize());
 app.use(passport.session());
 
-mongoose.connect("mongodb+srv://admit-rajat:Test123@cluster0.uzkn9.mongodb.net/myFirstDatabase?retryWrites=true&w=majority", { useNewUrlParser: true });
+mongoose.connect("mongodb+srv://username:password@cluster0.uzkn9.mongodb.net/myFirstDatabase?retryWrites=true&w=majority", { useNewUrlParser: true });
 
 const itemSchema = {
     name: String,
